@@ -252,7 +252,6 @@ li span{
 
 #main .body{
     margin:0 3%;
-    line-height:30px;
 }
 
 #main #sub2{
@@ -266,7 +265,6 @@ li span{
 .body2{
     font-style:italic;
     margin:20px 1%;
-    line-height:30px;
 }
 
 .pics{
@@ -324,7 +322,6 @@ li span{
 #ingred{
     text-align: left;
     margin:0 5%;
-    line-height:25px;
 }
 
 #ingred span{
@@ -345,7 +342,6 @@ li span{
 
 #main ol > li > p{
     font-weight:bold;
-    line-height:30px;
 }
 
 #bottom{
