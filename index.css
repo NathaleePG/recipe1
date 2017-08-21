@@ -348,6 +348,13 @@ li span{
     line-height:30px;
 }
 
+#bottom{
+    margin-top:100px;
+
+}
+#heart {
+    margin-top: 10px;
+}
 
 #root{
     position:relative;
